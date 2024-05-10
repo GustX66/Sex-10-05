@@ -5,6 +5,10 @@ body {
     background-color: black;
 }
 
+.border {
+    border-radius: 8;
+}
+
 h1 {
     margin-top: 20px;
 }
