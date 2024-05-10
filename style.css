@@ -7,6 +7,9 @@ body {
 
 h2 {
     font-size: 20px;
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .border {
