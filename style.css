@@ -6,7 +6,7 @@ body {
 }
 
 .border {
-    border-radius: 8;
+    border-radius: 8px;
     background-color: rgb(114, 0, 114);
 }
 
