@@ -15,8 +15,8 @@ h2 {
 .border {
     border-radius: 8px;
     background-color: rgb(114, 0, 114);
-    height: auto;
-    margin: auto;
+    height: 5px;
+    margin: 5px;
 }
 
 h1 {
