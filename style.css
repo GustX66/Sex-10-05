@@ -15,9 +15,9 @@ h2 {
 
 .border {
     border-radius: 8px;
-    background-color: rgb(114, 0, 114);
-    height: 5px;
-    margin: 5px;
+    background-color: rgb(49, 116, 116);
+    height: auto;
+    margin: auto;
 }
 
 h1 {

@@ -12,6 +12,6 @@ function verificarPalpite() {
         numeroSorteado = Math.floor(Math.random() * 3) + 1; // Gera novo número aleatório
         document.getElementById('palpite').value = ""; // Limpa o campo de palpite
     } else {
-        document.getElementById('resposta').textContent = "Errado! Tente novamente.";
+        document.getElementById('resposta').textContent = "Tente novamente.";
     }
 }
